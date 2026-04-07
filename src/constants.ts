@@ -3,7 +3,7 @@ import { DirectorySection } from "./types";
 export const INITIAL_DATA: DirectorySection[] = [
   {
     id: "opd",
-    title: "อาคารผู้ป่วยนอก OPD",
+    title: "อาคารผู้ป่วยนอก OPDDDDDD",
     entries: [
       {
         id: "1",
