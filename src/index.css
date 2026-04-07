@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+@theme {
+  --color-primary-dark: #402101;
+  --color-primary-medium: #74512D;
+  --color-primary-light: #AF8F6F;
+  --color-accent: #543310;
+  --color-bg-cream: #F8F4E1;
+  --color-bg-beige: #FFF2E1;
+  --color-beige-1: #EAD8C0;
+  --color-beige-2: #D1BB9E;
+  --color-beige-3: #A79277;
+  --color-muted-brown: #8D7E6B;
+}
+
+body {
+  @apply bg-bg-cream text-primary-dark;
+}
